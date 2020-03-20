@@ -1,5 +1,7 @@
 Capture 1
 
+Q1) curl http://capgchamb8.goffinet.net:8003
+
 Q3) port : 8003
 
 Q4) numéro paquet : 9
